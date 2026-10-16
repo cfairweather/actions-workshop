@@ -1,5 +1,7 @@
 # GitHub Actions Workshop by GitHub
 
+Modified by Cris for a PR.
+
 > *Lift-off with GitHub Actions - it's not rocket-science (unless you use it for rockets).* 🚀
 
 Welcome to our GitHub Actions Workshop! It will teach you all the basics of GitHub Actions and beyond, so that you feel confident in automating your own workflows and deployments.
