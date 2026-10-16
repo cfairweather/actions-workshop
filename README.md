@@ -1,6 +1,6 @@
 # GitHub Actions Workshop by GitHub
 
-Modified by Cris for a PR.
+Modified by Cris for a PR. Trigger!
 
 > *Lift-off with GitHub Actions - it's not rocket-science (unless you use it for rockets).* 🚀
 
